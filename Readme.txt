@@ -6,7 +6,7 @@ Requirements:
 Web browser, active internet connection, webcam, nodejs, tfjs-node
 
 to install tfjs-node:
-    npm install tfjs-node
+    npm i @tensorflow/tfjs-node
 
 Dataset link:
 https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv
