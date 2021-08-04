@@ -7,7 +7,7 @@ Web browser, active internet connection, webcam, nodejs, tfjs-node, csvtojson, n
 to install requirements:
     npm i @tensorflow/tfjs-node
     npm i csvtojson
-    pip install numpy pandas seaborn scikit-learn
+    pip install numpy pandas seaborn scikit-learn notebook
 
 Dataset link:
 https://www.kaggle.com/nipunarora8/age-gender-and-ethnicity-face-data-csv
